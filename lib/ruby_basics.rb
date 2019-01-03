@@ -1,5 +1,5 @@
 def division(num1, num2)
- return (num1/num2)
+ return num1/num2
 end
 
 def assign_variable(value)
@@ -10,8 +10,8 @@ def argue(x)
   return x
 end
 
-def greeting
-
+def greeting(arg1, arg2)
+  return "Nice"
 end
 
 def return_a_value
